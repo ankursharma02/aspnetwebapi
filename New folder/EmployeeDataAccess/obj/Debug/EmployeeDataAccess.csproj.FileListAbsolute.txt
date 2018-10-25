@@ -1,0 +1,12 @@
+D:\C#pro\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\C#pro\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\C#pro\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\C#pro\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\C#pro\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#pro\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\C#pro\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#pro\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+D:\C#pro\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\C#pro\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+D:\C#pro\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\C#pro\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
